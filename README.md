@@ -1,5 +1,5 @@
 ### Hi there, I'm Luke 👋
-**a little about me**
+**a little about me:**
 - 🎓 UW '20 B.S. Chemistry/Math minor
 - ⌨️ student @HackReactor
 - 🌱 currently learning fullstack JS
