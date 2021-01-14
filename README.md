@@ -6,4 +6,4 @@
 - 📲 &nbsp; check out [ThoughtBubble](https://github.com/lukehatcher/vscode-ios-todos), my ios project tracking app with VSCode integeration
 <br/><br/>
 [![Linkedin: Luke Hatcher](https://img.shields.io/badge/-lukehatcher98-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lukehatcher98/)](https://www.linkedin.com/in/lukehatcher98/)
-[![Gmail Badge](https://img.shields.io/badge/-andrewsong61-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lukehatcher98@gmail.com)](mailto:lukehatcher98@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-lukehatcher98-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lukehatcher98@gmail.com)](mailto:lukehatcher98@gmail.com)
